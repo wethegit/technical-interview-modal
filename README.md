@@ -6,8 +6,8 @@ Create a responsive modal window that contains a video and a close button, and i
 
 - responsive;
 - video - the video should automatically play when the modal opens;
-- animation - where appropriate, the UI elements should contain interaction animations/transitions;
-- accessibility - consider the keyboard user's experience, as well as any potential screen-reader concerns;
+- animation - where appropriate, elements should contain interaction animations or transitions;
+- accessibility - consider the keyboard user's experience, as well as any potential screen-reader/assistive-technology concerns;
 
 ## The limitations
 
