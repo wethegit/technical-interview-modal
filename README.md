@@ -2,10 +2,11 @@
 
 ## The ask
 
-Create a responsive modal window that contains a video and a close button, and is triggered by a click/tap interaction on the UI element. See `mockup-1.jpg` and `mockup-2.jpg` in the root of the project for a reference. It should include the following:
+Create a responsive modal window that can be opened by the clicking/tapping on the corresponding UI elements. The modal should support both video and image content. See the [visual reference](#visual-reference) section below. All placeholder text content and basic text styles are provided for you already, with the exception of the call-to-action elements. Consider the following as you work through this:
 
-- responsive;
-- video - the video should automatically play when the modal opens;
+- responsiveness;
+- when the modal is open, the document should not be scrollable;
+- the video should automatically play when the video modal opens;
 - animation - where appropriate, elements should contain interaction animations or transitions;
 - accessibility - consider the keyboard user's experience, as well as any potential screen-reader/assistive-technology concerns;
 
@@ -15,7 +16,24 @@ The purpose of this task is to test your problem-solving approach, your ability 
 
 ## Visual reference
 
-<img src="./mockup-1.jpg" alt="" />  
+### Page content:
+
+<img src="./design-reference/mockup-01.jpg" alt="" />  
   
-  
-<img src="./mockup-2.jpg" alt="" />
+---
+
+### Page content, continued:
+
+<img src="./design-reference/mockup-02.jpg" alt="" />
+
+---
+
+### Modal: video content:
+
+<img src="./design-reference/mockup-03.jpg" alt="" />
+
+---
+
+### Modal: image content:
+
+<img src="./design-reference/mockup-04.jpg" alt="" />
