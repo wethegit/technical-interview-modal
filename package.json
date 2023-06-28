@@ -1,6 +1,6 @@
 {
-  "name": "technical-interview-fe-dev",
-  "version": "1.0.0",
+  "name": "technical-interview-modal",
+  "version": "0.0.0",
   "description": "",
   "source": "src/index.html",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wethegit/technical-interview-fe-dev.git"
+    "url": "git+https://github.com/wethegit/technical-interview-modal.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wethegit/technical-interview-fe-dev/issues"
+    "url": "https://github.com/wethegit/technical-interview-modal/issues"
   },
-  "homepage": "https://github.com/wethegit/technical-interview-fe-dev#readme",
+  "homepage": "https://github.com/wethegit/technical-interview-modal#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "~2.5.0",
     "parcel": "~2.5.0"

@@ -2,7 +2,7 @@
 
 ## The ask
 
-Create a responsive modal window that can be opened by the clicking/tapping on the corresponding UI elements. The modal should support both video and image content. See the [visual reference](#visual-reference) section below. All placeholder text content and basic text styles are provided for you already, with the exception of the call-to-action elements. Consider the following as you work through this:
+Create a modal window that can be opened by the clicking/tapping on the corresponding UI elements. The modal should support both video and image content, depending on which element was clicked. See the [visual reference](#visual-reference) section below. All placeholder text content and basic text styles are provided for you already, with the exception of the call-to-action elements. Consider the following as you work through this:
 
 - responsiveness;
 - when the modal is open, the document should not be scrollable;
