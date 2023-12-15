@@ -1,5 +1,17 @@
 # Technical interview
 
+## Software requirements
+
+In order get up and running with this project, you'll need:
+
+- [Node JS, version 16.x](https://nodejs.org/en/about/previous-releases#looking-for-latest-release-of-a-version-branch)
+
+## Running the project
+
+First please ensure you're using the correct Node version (16.x). If you use a Node version manager such as nvm, you can reference to the `.nvmrc` file.  
+Install all dependencies: `npm install`  
+Start the local server with the project running: `npm start`
+
 ## The ask
 
 Create a modal window that can be opened by the clicking/tapping on the corresponding UI elements. The modal should support both video and image content, depending on which element was clicked. See the [visual reference](#visual-reference) section below. All placeholder text content and basic text styles are provided for you already, with the exception of the call-to-action elements. Consider the following as you work through this:
